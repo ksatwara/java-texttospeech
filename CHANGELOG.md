@@ -1,5 +1,15 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/googleapis/java-texttospeech/compare/v1.0.2...v1.0.3) (2020-05-05)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-common-protos to v1.18.0 ([#137](https://www.github.com/googleapis/java-texttospeech/issues/137)) ([a3bb294](https://www.github.com/googleapis/java-texttospeech/commit/a3bb294e84eee6429f3046d2777070530447222a))
+* update dependency com.google.guava:guava-bom to v29 ([#114](https://www.github.com/googleapis/java-texttospeech/issues/114)) ([9bd8f9a](https://www.github.com/googleapis/java-texttospeech/commit/9bd8f9a310f0d10c8eb1de18f77ea776a5bc8cf3))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#128](https://www.github.com/googleapis/java-texttospeech/issues/128)) ([8c69682](https://www.github.com/googleapis/java-texttospeech/commit/8c696822b48583fdf2a83de1fe557fbbf72b1e64))
+* update dependency org.threeten:threetenbp to v1.4.4 ([#133](https://www.github.com/googleapis/java-texttospeech/issues/133)) ([2422613](https://www.github.com/googleapis/java-texttospeech/commit/24226135e45f6e2183d766b526463c39f5b6914d))
+
 ### [1.0.2](https://www.github.com/googleapis/java-texttospeech/compare/v1.0.1...v1.0.2) (2020-04-06)
 
 
